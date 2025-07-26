@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fabian Williams (aka He-is-Williams)!
+# 👋 Hi, I'm Fabian Williams
 
 Welcome to my GitHub profile!  
 I'm a student, aspiring developer, and digital creator who loves to learn, build, and design.
