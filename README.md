@@ -26,7 +26,7 @@ I'm a student, aspiring developer, and digital creator who loves to learn, build
 
 ## 🏆 Certifications
 
-- 🥇 [Python Basics](https://www.hackerrank.com/certificates) — HackerRank
+- 🥇 [Python Basics](https://www.hackerrank.com/certificates/b3b8e0f09bea) — HackerRank
 - 🛡️ Opswat Certification
 
 ---
