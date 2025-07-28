@@ -62,3 +62,4 @@ I'm a student, aspiring developer, and digital creator who loves to learn, build
 ---
 
 ![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=He-is-Williams&show_icons=true&hide_title=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=He-is-Williams&theme=radical)
